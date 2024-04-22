@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultLandingTab>standard-home</defaultLandingTab>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
+    <tabs>standard-Chatter</tabs>
+    <tabs>standard-Workspace</tabs>
+    <tabs>standard-ContentSearch</tabs>
+    <tabs>standard-ContentSubscriptions</tabs>
+    <tabs>Promotions__c</tabs>
+    <tabs>Taco__c</tabs>
+    <tabs>AppOpsReleaseLocal</tabs>
+    <tabs>AV__c</tabs>
+    <tabs>fieldsTest__c</tabs>
+    <tabs>sf_devops__Work_Item__c</tabs>
+    <tabs>SBQQ__BlockPrice__c</tabs>
+    <tabs>X15_00_Obj_New__c</tabs>
+    <tabs>PDRI__Managed_Environment__c</tabs>
+    <tabs>SBQQ__ProductOption__c</tabs>
+    <tabs>PDRI__Transformation__c</tabs>
+    <tabs>PDRI__Deployment_Bundle__c</tabs>
+</CustomApplication>
